@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-title = "Tella"
-author = "username"
+baseURL = "https://fico-ita.github.io"
+title = "FICO @ ITA"
+author = "FICO"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -24,14 +24,14 @@ enableRobotsTXT = true
 
   [params.logo]
     main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "FICO"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "FICO @ ITA"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -41,7 +41,7 @@ enableRobotsTXT = true
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     meta_og_title = "Tella"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://fico-ita.github.io"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     meta_twitter_card = "summary_large_image"
@@ -82,6 +82,6 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/fico-ita/fico-ita.github.io"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2
