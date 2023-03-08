@@ -2,3 +2,20 @@
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
+
+.text-6xl {
+  font-size: 6rem;
+  line-height: 1;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.swiper-slide .s-fade-txt {
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  transform: translate(-20%,-40%);
+  opacity: 0;
+}
