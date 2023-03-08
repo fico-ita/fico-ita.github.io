@@ -39,7 +39,7 @@ enableRobotsTXT = true
 
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_og_title = "FICO"
     meta_og_type = "website"
     meta_og_url = "https://fico-ita.github.io"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
