@@ -1,0 +1,4 @@
+[submodule "themes/tella"]
+  path = themes/tella
+  url = git@github.com:opera7133/tella.git
+  
