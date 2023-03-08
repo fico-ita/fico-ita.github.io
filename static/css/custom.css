@@ -13,9 +13,14 @@
 }
 
 .swiper-slide .s-fade-txt {
-  position: absolute;
+  /*position: absolute;
   top: 30%;
   left: 20%;
-  transform: translate(-20%,-40%);
+  transform: translate(-20%,-40%);*/
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  width: 80%;
+  transform: translate(0,0);
   opacity: 0;
 }
