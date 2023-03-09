@@ -3,24 +3,50 @@
  You can change the article headings, fonts, colors, etc.
 */
 
-.text-6xl {
-  font-size: 6rem;
-  line-height: 1;
-}
-
 .text-left {
   text-align: left;
 }
 
+.text-6xl {
+  font-size: 4rem;
+  line-height: 1;
+}
+
 .swiper-slide .s-fade-txt {
-  /*position: absolute;
-  top: 30%;
-  left: 20%;
-  transform: translate(-20%,-40%);*/
   position: absolute;
   top: 15%;
-  left: 5%;
+  left: 8%;
   width: 80%;
   transform: translate(0,0);
   opacity: 0;
+}
+
+@media (min-width: 640px) {
+  .text-6xl {
+    font-size: 4.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .text-6xl {
+    font-size: 5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .text-6xl {
+    font-size: 6rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .text-6xl {
+    font-size: 6.5rem;
+  }
+}
+
+@media (min-width: 1536px) {
+  .text-6xl {
+    font-size: 7rem;
+  }
 }
