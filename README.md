@@ -26,15 +26,30 @@ apt install ./hugo_extended_0.111.2_linux-amd64.deb
 
 ## Inicialização
 
-Após clonar o repo, é necessário instalar os pacotes:
+Após clonar o repo, é necessário iniciar os submódulos
+
+````bash
+cd fico-ita.github.io
+git submodule update
+````
+e instalar os pacotes do node.js:
+
 ````bash
 npm install
 ````
 
 ## Execução
 
-Para compilar e servir a página
+Para compilar e servir a página.
 
 ````bash
 hugo server -p 8888
+````
+
+Caso ocorrer algum problema, apague a pasta `public` antes de servir a página.
+
+Para compilar use o comando abaixo. Será compilada a página para a pasta `public`.
+
+````bash
+hugo
 ````
