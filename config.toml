@@ -1,5 +1,5 @@
 baseURL = "https://fico-ita.github.io"
-title = "FICO @ ITA"
+title = "ITA | Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos"
 author = "FICO"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -23,27 +23,27 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "FICO"
+    main = "img/logo/ITA_logo.png"
+    alt = "FICO - ITA"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "FICO @ ITA"
+    name = "ITA | Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "FICO"
+    meta_description = "FICO-ITA é um Grupo de Persquisa em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica."
+    meta_og_title = "ITA | Grup o de Interesse em Finanças Computacionais e Investimentos Sistemáticos"
     meta_og_type = "website"
     meta_og_url = "https://fico-ita.github.io"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_description = "FICO-ITA é um Grupo de Persquisa em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica."
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
@@ -51,26 +51,26 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
+    identifier = "FICO-ITA"
+    name = "FICO-ITA"
+    url = "/fico/"
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "products"
+    name = "Atividades"
+    url = "/atividades/"
     weight = 2
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "blog"
+    name = "Notícias"
+    url = "/blog/"
     weight = 3
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Contato"
     url = "/contact/"
     weight = 4
 
@@ -83,5 +83,5 @@ enableRobotsTXT = true
   [[menu.footer]]
     name = "Github"
     url = "https://github.com/fico-ita/fico-ita.github.io"
-    pre = "<i class='icon-github text-2xl'></i>"
+    pre = "<i class='icon-linkedin text-2xl'></i>"
       weight = 2
