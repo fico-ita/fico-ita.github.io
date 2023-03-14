@@ -2,16 +2,19 @@
   {
     "title": "Finanças Computacionais",
     "description": "Soluções computacionais em Finanças e Investimentos",
-    "icon": "fa-solid fa-code"
+    "icon": "fa-solid fa-code",
+    "link": "/atividades/fincomp/"
   },
   {
     "title": "Estratégias de Investimentos",
     "description": "Desenvolvimento de estratégias para investimentos sistemáticos",
-    "icon": "fa-solid fa-chart-line"
+    "icon": "fa-solid fa-chart-line",
+    "link": "/atividades/estrategia/"
   },
   {
     "title": "Ensino e Pesquisa no ITA",
     "description": "Orientação de pesquisa incluindo Finanças da Aviação",
-    "icon": "fa-solid fa-graduation-cap"
+    "icon": "fa-solid fa-graduation-cap",
+    "link": "/atividades/ensino/"
   }
 ]
