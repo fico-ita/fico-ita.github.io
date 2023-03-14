@@ -1,5 +1,5 @@
 +++
-title = "FICO-ITA"
+title = "Sobre nós"
 description = "Grupo de Persquisa em Finanças Computacionais e Investimentos Sistemáticos"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
