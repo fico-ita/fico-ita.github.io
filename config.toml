@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blog']
+  mainSections = ['noticias']
 
   googleFonts = true
 
@@ -65,7 +65,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "blog"
     name = "Notícias"
-    url = "/blog/"
+    url = "/noticias/"
     weight = 3
 
   [[menu.main]]
