@@ -1,41 +1,61 @@
 +++
 title = "Atividades"
 description = "Atividades realizadas pelo FICO-ITA"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+date = "2023-03-13"
+aliases = ["atividades", "trabalho", "pesquisa", "consultoria"]
+author = "FICO"
 +++
 
-Pesquisamos e desenvolvemos soluções em finanças quantitativas e investimetnos sistemáticos utilizando o estado da arte e com rigor científico. 
+Nossas soluções e pesquisas em finanças quantitativas e investimentos sistemáticos se diferenciam por empregar rigor científico e técnicas do estado da arte.
 
-Nossas atividades são variadas e inclui:
+Algumas de nossas variadas atividades incluem:
 
-* ### **Desenvolvimento de estratégias de investimentos**
-    - Usando o estado da arte em ciência de dados, aprendizado de máquina e inteligência artificial, desenvolvemos estratégias sistemáticas de investimentos com
-    diferentes objetivos.
-    - **PÚBLICO-ALVO:** Fundos quantitativos ou sistemáticos que buscam soluções científicas e robustas
+## Desenvolvimento de estratégias de investimentos
 
-* ###  **Análise de fundos de investimentos brasileiros** 
-    - Aplicando estado da arte em produção de rankings e indicadores de performance nos dados disponibilizados pela Comissão de Valores Mobiliários, analisamos a performance de fundos de investimentos brasileiros.
-    - **PÚBLICO-ALVO:** Investidores em busca das melhore opções para sua alocação pessoal de recursos.
+Desenvolvimento de estratégias sistemáticas de investimentos personalizadas para características e objetivos específicos usando técnicas avançadas de otimização, ciência de dados, aprendizado de máquina e inteligência artificial.
+<!-- Usando o estado da arte em ciência de dados, aprendizado de máquina e inteligência artificial, desenvolvemos estratégias sistemáticas de investimentos com diferentes objetivos. -->
 
-* ### **Engenharia de dados inanceiros**
-    - Pesquisamos e desenvolvemos soluções para integração de dados fornecidos por diferentes provedores.
-    - **PÚBLICO-ALVO:** Clientes de mais de uma empresa provedores de dados financeiros "data providers".
+**PÚBLICO-ALVO**: Fundos quantitativos ou sistemáticos que buscam soluções científicas e robustas.
 
-* ### **Disciplinas no ITA**
-    - Somos responsáveis por das disciplinas no ITA:
-        - PO-215: Modelagem de Investimentos e Riscos
-        - PO-245: Aprendizado de Máquina em Finanças Quantitativas
-    - **PÚBLICO-ALVO:** Estudantes e graduação e pós-graduação no ITA.
+## Análise de fundos de investimentos
 
-* ### **Orientações de pesquisa no ITA**
-    - Orientamos projetos e pesquisas dentro de programas de pós-greaduação no ITA:
-         - Programa de Pós-graduação em Pesquisa Operacional
-         - Programa de Pós-graduação em Engenharia Eletrônica e Computação (Área Informática)
-    - **PÚBLICO-ALVO:** Estudantes e graduação e pós-graduação no ITA, e pesquisadores em pós-doutorado.
-    - **ATENÇÂO:** Somente são aceitos temas ligados a Finanças da Aviação para membros das forças armadas.
+<!-- Aplicando estado da arte em produção de rankings e indicadores de performance nos dados disponibilizados pela Comissão de Valores Mobiliários, analisamos a performance de fundos de investimentos brasileiros. -->
 
-* ### **Soluções customizadas**
-    - Desennvolvemos soluções customizadas à demandas específicas dentro do escopo de Finanças Computacionais e Investimentos Sistemáticos
-    - **PÚBLICO-ALVO:** Entidades do mercado financeiro
+Com metodologia própria, oferecemos análises de ranqueamento e indicadores de desempenho de fundos de investimentos brasileiros com base em dados abertos disponibilizados pela Comissão de Valores Mobiliários (CVM).
+
+**PÚBLICO-ALVO:** Investidores em busca das melhores opções para alocação pessoal de recursos.
+
+## Engenharia de dados financeiros
+
+Nossa *expertise* de pesquisa em diversas áreas do conhecimento nos permitem construir dados diferenciados de maior valor e soluções para integração e processamento de dados de forma escalável.
+<!--  Pesquisamos e desenvolvemos soluções para integração de dados fornecidos por diferentes provedores. -->
+
+**PÚBLICO-ALVO:** Clientes com diversos provedores de dados financeiros (*data providers*).
+
+## Disciplinas no ITA
+
+Somos responsáveis pelas seguintes disciplinas em nível de pós-graduação no ITA:
+
+- PO-215: Modelagem de Investimentos e Riscos;
+- PO-245: Aprendizado de Máquina em Finanças Quantitativas;
+- CE-265: Processamento Paralelo;
+- PO-203: Programação Inteira;
+
+**PÚBLICO-ALVO:** Estudantes de graduação e pós-graduação no ITA.
+
+## Orientações de pesquisa no ITA
+
+Orientamos projetos e pesquisas dentro dos programas de pós-graduação no ITA:
+
+- Programa de Pós-graduação em Pesquisa Operacional (PPG-PO)
+- Programa de Pós-graduação em Engenharia Eletrônica e Computação na área Informática (PPG-EEC-I)
+
+**PÚBLICO-ALVO:** Estudantes de graduação e pós-graduação no ITA, e pesquisadores em pós-doutorado.
+**ATENÇÂO:** Para membros das forças armadas, somente são aceitos temas ligados a Finanças da Aviação.
+
+## Demandas específicas
+
+Desenvolvemos soluções customizadas à demandas específicas dentro do escopo de finanças computacionais e investimentos sistemáticos.
+<!-- Desenvolvemos soluções customizadas à demandas específicas dentro do escopo de Finanças Computacionais e Investimentos Sistemáticos-->
+
+**PÚBLICO-ALVO:** Entidades do mercado financeiro.
