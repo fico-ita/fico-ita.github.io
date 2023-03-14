@@ -85,3 +85,6 @@ enableRobotsTXT = true
     #url = "https://github.com/fico-ita/fico-ita.github.io"
     #pre = "<i class='icon-github text-2xl'></i>"
       #weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
