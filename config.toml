@@ -115,3 +115,6 @@ enableRobotsTXT = true
     url = "https://www.linkedin.com/company/fico-ita/"
     pre = "<i class='fa-brands fa-linkedin-in'></i>"
     weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
