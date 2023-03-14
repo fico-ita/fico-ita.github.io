@@ -1,33 +1,17 @@
 [
   {
+    "title": "Finanças Computacionais",
+    "description": "Soluções computacionais em Finanças e Investimentos",
+    "icon": "fa-solid fa-code"
+  },
+  {
     "title": "Estratégias de Investimentos",
-    "description": "Usamos o estado-da-arte para desenvolver estratégias de investimentos.",
-    "icon": "icon-desktop_windows"
+    "description": "Desenvolvimento de estratégias para investimentos sistemáticos",
+    "icon": "fa-solid fa-chart-line"
   },
   {
-    "title": "Análise de Fundos de Investimentos",
-    "description": "Analisamos e comparamos fundos de investimentos brasileiros",
-    "icon": "icon-lightbulb_outline"
-  },
-  {
-    "title": "Engenharia de Dados Financeiros",
-    "description": "Construímos a infra-estrutura de dados financeiros.",
-    "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
-  },
-  {
-    "title": "Disciplinas no ITA",
-    "description": "Somos responsáveis pela disciplina de Aprendizado de Máquina em Finanças Quantitativas.",
-    "icon": "icon-desktop_windows"
-  },
-  {
-    "title": "Orientação de pesquisas e projetos",
-    "description": "Orientamos pesquisa de pós-doutorado, doutorado, mestrado e iniciação cientifica e tecnológica.",
-    "icon": "icon-lightbulb_outline"
-  },
-  {
-    "title": "Finanças da Aviação no ITA",
-    "description": "Pesquisamos finanças e investimentos relacionados a atividade aeroespacial",
-    "icon": "icon-github"
+    "title": "Ensino e Pesquisa no ITA",
+    "description": "Orientação de pesquisa incluindo Finanças da Aviação",
+    "icon": "fa-solid fa-graduation-cap"
   }
 ]
