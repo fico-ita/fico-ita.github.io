@@ -57,22 +57,46 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
-    identifier = "products"
-    name = "Atividades"
-    url = "/atividades/"
+    identifier = "fincomp"
+    name = "Finanças Computacionais"
+    url = "/atividades/fincomp/"
     weight = 2
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Notícias"
-    url = "/blog/"
+    identifier = "estrategia"
+    name = "Estratégias de Investimentos"
+    url = "/atividades/estrategia/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "ensino"
+    name = "Ensino e Pesquisa no ITA"
+    url = "/atividades/ensino/"
+    weight = 4
+
+  [[menu.main]]
+    #identifier = "products"
+    #name = "Atividades"
+    #url = "/atividades/"
+    #weight = 2
+
+  [[menu.main]]
+    #identifier = "blog"
+    #name = "Notícias"
+    #url = "/blog/"
+    #weight = 3
 
   [[menu.main]]
     identifier = "contact"
     name = "Contato"
     url = "/contact/"
-    weight = 4
+    weight = 5
+
+  [[menu.main]]
+    #name = "Linkedin"
+    #url = "https://github.com/fico-ita/fico-ita.github.io"
+    #pre = "<i class='fa-brands fa-linkedin-in'></i>"
+    #weight = 6
 
   # Footer Menu
   [[menu.footer]]
@@ -84,4 +108,10 @@ enableRobotsTXT = true
     #name = "Github"
     #url = "https://github.com/fico-ita/fico-ita.github.io"
     #pre = "<i class='icon-github text-2xl'></i>"
-      #weight = 2
+    #weight = 2
+
+  [[menu.footer]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/fico-ita/"
+    pre = "<i class='fa-brands fa-linkedin-in'></i>"
+    weight = 3
