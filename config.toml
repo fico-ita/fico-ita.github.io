@@ -52,7 +52,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "FICO-ITA"
-    name = "FICO-ITA"
+    name = "Sobre"
     url = "/fico/"
     weight = 1
 
