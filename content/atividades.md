@@ -51,6 +51,7 @@ Orientamos projetos e pesquisas dentro dos programas de pós-graduação no ITA:
 - Programa de Pós-graduação em Engenharia Eletrônica e Computação na área Informática (PPG-EEC-I)
 
 **PÚBLICO-ALVO:** Estudantes de graduação e pós-graduação no ITA, e pesquisadores em pós-doutorado.
+
 **ATENÇÂO:** Para membros das forças armadas, somente são aceitos temas ligados a Finanças da Aviação.
 
 ## Demandas específicas
