@@ -75,7 +75,7 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
   <p style="padding:10px">Doutorado em Finanças Computacionais </p>
   <p style="padding:10px">University of Essex</p>
   <div style="margin: 24px 0;">
-    <a href="https://www.linkedin.com/in/eltonsbruzzi/" target="_blank"><i class="fa fa-linkedin"></i></a>  
+    <a href="https://www.linkedin.com/in/eltonsbruzzi/" target="_blank"><i class="fa fa-linkedin"></i></a> 
   </div>
 </div>
 
@@ -96,6 +96,16 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
   <p style="padding:10px">ITA</p>
   <div style="margin: 24px 0;">
     <a href="https://www.linkedin.com/in/michel-leles/" target="_blank"><i class="fa fa-linkedin"></i></a>  
+  </div>
+</div>
+
+<div class="card">
+  <img style="padding:10px; border-radius: 50%; width: 70%; margin:auto" src="/img/team/filipe.jpg" alt="John">
+  <h3>Filipe Verri</h3>
+  <p style="padding:10px">Doutorado Ciências de Computação</p>
+  <p style="padding:10px">ICMC/USP</p>
+  <div style="margin: 24px 0;">
+    <a href="https://www.linkedin.com/in/filipe-verri-01bba6181/" target="_blank"><i class="fa fa-linkedin"></i></a>  
   </div>
 </div>
 
