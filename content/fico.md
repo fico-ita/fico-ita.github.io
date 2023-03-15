@@ -45,6 +45,8 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
 
   padding: 10px;
   width: 15rem;
+  height: 15rem;
+  object-fit: contain;
   margin: 0 auto;
 }
 
@@ -104,7 +106,7 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
 
   <div class="card">
     <div class="person-img">
-      <img src="/img/team/filipe.jpg" alt="Filpe"><h3>Filipe Verri</h3>
+      <img src="/img/team/filipe.png" alt="Filpe"><h3>Filipe Verri</h3>
     </div>
     <div class="person-diploma">
       <p>Ph.D. Ciências de Computação</p>
