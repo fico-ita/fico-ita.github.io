@@ -41,6 +41,10 @@
   .text-6xl {
     font-size: 5rem;
   }
+
+  .listfounders {
+    display: flex;
+  }
 }
 
 @media (min-width: 1024px) {
