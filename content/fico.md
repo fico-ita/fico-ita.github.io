@@ -67,7 +67,7 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
 <div class="listfounders">
   <div class="card">
     <div class="person-img">
-      <img src="/img/team/elton.jpg" alt="Elton"><h3>Elton Sbruzzi</h3>
+      <img src="/img/team/elton.png" alt="Elton"><h3>Elton Sbruzzi</h3>
     </div>
     <div class="person-diploma">
       <p>Ph.D. em Finanças Computacionais</p>
