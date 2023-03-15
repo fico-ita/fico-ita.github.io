@@ -116,5 +116,7 @@ enableRobotsTXT = true
     pre = "<i class='fa-brands fa-linkedin-in'></i>"
     weight = 3
 
-[markup.goldmark.renderer]
-  unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true 
