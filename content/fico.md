@@ -1,6 +1,6 @@
 +++
 title = "Sobre nós"
-description = "Grupo de Persquisa em Finanças Computacionais e Investimentos Sistemáticos"
+description = "Grupo de Pesquisa em Finanças Computacionais e Investimentos Sistemáticos"
 date = "2023-03-15"
 aliases = ["about-us", "about-fico", "fico"]
 author = "Fico"
@@ -120,4 +120,4 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
 
 ## O ITA
 
-Com uma taxa de aprovação inferior a 1% em seu vestibular, o ITA é considerada uma das melhores escola na área STEM no Brasil. Fundado em 1950, oferece cursos de graduação e pós-graduação nas áreas de Ciências Exatas e Engenharia.
+Com uma taxa de aprovação inferior a 1% em seu vestibular, o ITA é considerada uma das melhores escolas na área STEM no Brasil. Fundado em 1950, oferece cursos de graduação e pós-graduação nas áreas de Ciências Exatas e Engenharia.
