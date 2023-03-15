@@ -70,7 +70,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "ensino"
-    name = "Ensino e Pesquisa no ITA"
+    name = "Ensino e Pesquisa"
     url = "/atividades/ensino/"
     weight = 4
 
