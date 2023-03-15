@@ -21,6 +21,10 @@
   opacity: 0;
 }
 
+.img-circle img {
+  border-radius: 50%;
+}
+
 @media (min-width: 480px) {
   .text-6xl {
     font-size: 3rem;
