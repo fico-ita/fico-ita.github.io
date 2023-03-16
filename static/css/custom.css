@@ -3,7 +3,7 @@
  You can change the article headings, fonts, colors, etc.
 */
 
-.thumb {
+img#thumb {
   object-fit: contain;
 }
 
