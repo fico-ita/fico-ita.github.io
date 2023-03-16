@@ -3,6 +3,10 @@
  You can change the article headings, fonts, colors, etc.
 */
 
+.thumb {
+  object-fit: contain;
+}
+
 .text-left {
   text-align: left;
 }
