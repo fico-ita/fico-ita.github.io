@@ -35,7 +35,7 @@
         <img class="my-4" src="{{ .Params.image | absURL }}">
         {{ end }}
         <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">{{.Content}}</div>
-        <div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
+        <!--<div class="share m-2 grid grid-cols-2 lg:grid-cols-3 gap-2">
             <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank"
                 title="Tweet" class="share-button twitter">
                 <div class="text-white text-center">
@@ -71,7 +71,7 @@
                     <span class="icon-link text-lg mr-2"></span>Copy
                 </div>
             </a>
-        </div>
+        </div> -->
         <hr class="py-4">
         {{- with .Site.Params.disqusShortname }}
         <div class="mb-3">
