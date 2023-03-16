@@ -9,7 +9,7 @@ description: Soluções computacionais em Finanças e Investimentos
 
 Finanças Computacionais é uma área abrangente e em constante evolução, que combina a teoria financeira e computação avançada para analisar e entender melhor os mercados financeiros e os instrumentos de investimentos.
 
-Os mercados financeiros são cada vez mais complexos e voláteis, exigindo uma abordagem cada vez mais sofisticada para a análise de dados. Os métodos tradicionais de análise financeira, que dependem de modelos matemáticos simples e da intuição dos investidores, são muitas vezes insuficientes para lidar com essa complexidade e na velocidade que hoje o mercado pratica.
+Os mercados financeiros são cada vez mais complexos e voláteis, exigindo uma abordagem mais sofisticada para a análise de dados. Os métodos tradicionais de análise financeira, que dependem de modelos matemáticos simples e da intuição dos investidores, são muitas vezes insuficientes para lidar com essa complexidade e na velocidade que hoje o mercado pratica.
 
 No FICO-ITA utilizamos técnicas de modelagem matemática, aprendizado de máquina, *data science* e outras tecnologias avançadas para analisar grandes quantidades de dados financeiros e desenvolver estratégias de investimentos. Isso permite que investidores e gestores tomem decisões mais informadas e precisas sobre como investir seu dinheiro.
 
