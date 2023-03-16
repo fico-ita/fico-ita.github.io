@@ -6,65 +6,19 @@ aliases = ["about-us", "about-fico", "fico"]
 author = "Fico"
 +++
 
-FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica. Ensinamos, pesquisamos e desenvolvemos soluções computacionais para a gestão sistemática de investimentos e finanças quantitativas. O público-alvo de nossas pesquisas e soluções é formado por *hedge funds*, *family offices* e fundos de investimento interessados em utilizar a ciência na gestão de investimentos.
+Formado por professores dos programas de pós-graduação do ITA, o FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica. Ensinamos, pesquisamos e desenvolvemos soluções computacionais para a gestão sistemática de investimentos e finanças quantitativas. O público-alvo de nossas pesquisas e soluções é formado por *hedge funds*, *family offices* e fundos de investimento interessados em utilizar a ciência na gestão de investimentos.
 
 ## Missão, Visão e Valores
 
-- Missão
-  - Contribuir com a indústria financeira e de investimentos com a proposta de pesquisar e desenvolver soluções com rigor científico.
-- Visão
-  - Ser uma referência de excelência para investidores e entidades do mercado financeiro.
-- Valores
-  - Disciplina Consciente do ITA;
-  - Respeito total e irrestrito à ciência.
+- **Missão**
+  - Contribuir com a indústria financeira e de investimentos com pesquisas e desenvolvimento de soluções com rigor científico
+- **Visão**
+  - Ser uma referência de excelência para investidores e entidades do mercado financeiro
+- **Valores**
+  - Ética e honestidade ([Disciplina Consciente do ITA](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
+  - Respeito total e irrestrito à ciência
 
 ## Fundadores
-
-<style>
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
-  margin: 0 5px 5px 0;
-  text-align: center;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-
-  flex-basis: 0;
-  flex-grow: 1;
-}
-
-.card:hover {
-  opacity: 0.9;
-  --tw-translate-y: -0.25rem;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
-
-.card img {
-  border-radius: 50%;
-  filter: sepia(20%);
-
-  padding: 10px;
-  width: 15rem;
-  height: 15rem;
-  object-fit: contain;
-  margin: 0 auto;
-}
-
-.card .person-diploma {
-  margin: 10px 0;
-}
-
-.card .person-links {
-  margin: 14px 0 20px 0;
-}
-
-.card .person-links a {
-  text-decoration: none;
-  font-size: 1.5rem;
-}
-</style>
 
 <div class="listfounders">
   <div class="card">
