@@ -37,6 +37,8 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
 
 .card:hover {
   opacity: 0.9;
+  --tw-translate-y: -0.25rem;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
 .card img {
