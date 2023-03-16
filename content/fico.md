@@ -95,7 +95,7 @@ FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Si
 
   <div class="card">
     <div class="person-img">
-      <img src="/img/team/michel.jpg" alt="Michel"><h3>Michel Leles</h3>
+      <img src="/img/team/michel.png" alt="Michel"><h3>Michel Leles</h3>
     </div>
     <div class="person-diploma">
       <p>Post-doc em Finanças Computacionais</p>
