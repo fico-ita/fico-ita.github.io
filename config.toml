@@ -1,8 +1,9 @@
 baseURL = "https://fico-ita.github.io"
 title = "FICO-ITA"
 author = "FICO"
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "pt"
+defaultContentLanguage = "pt"
+#defaultContentLanguageInSubdir: true
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
@@ -16,14 +17,27 @@ enableRobotsTXT = true
 # Disqus Comment System
 #disqusShortname = ""
 
+[languages]
+  [languages.pt]
+    languageName = "Português"
+    weight = 1
+    
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+    [languages.en.params]
+      [languages.en.params.site]
+        name = "FICO-ITA | Computational Finance and Systematic Investment Interest Group"
+
 [params]
 
-  mainSections = ['noticias']
+  mainSections = ['news']
 
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/ita-logo.png"
+    main = "/img/logo/ita-logo.png"
     alt = "FICO-ITA"
 
     # The size parameter is the class name of tailwindcss
@@ -37,40 +51,25 @@ enableRobotsTXT = true
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
-  [params.homepage_meta_tags]
-    meta_description = "FICO-ITA é um grupo de pesquisa em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica"
-    meta_og_title = "FICO-ITA | Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos"
-    meta_og_type = "website"
-    meta_og_url = "https://fico-ita.github.io"
-    #meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "FICO-ITA é um grupo de pesquisa em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica."
-    #meta_twitter_card = "summary_large_image"
-    #meta_twitter_site = "@username"
-    #meta_twitter_creator = "@username"
-
 [menu]
 
   [[menu.main]]
     identifier = "FICO-ITA"
-    name = "Sobre"
     url = "/fico/"
     weight = 1
 
   [[menu.main]]
     identifier = "fincomp"
-    name = "Finanças Computacionais"
     url = "/atividades/fincomp/"
     weight = 2
 
   [[menu.main]]
     identifier = "estrategia"
-    name = "Estratégias de Investimentos"
     url = "/atividades/estrategia/"
     weight = 3
 
   [[menu.main]]
     identifier = "ensino"
-    name = "Ensino e Pesquisa"
     url = "/atividades/ensino/"
     weight = 4
 
@@ -87,16 +86,15 @@ enableRobotsTXT = true
     #weight = 3
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contato"
+    identifier = "contato"
     url = "/contact/"
     weight = 5
 
   [[menu.main]]
-    #name = "Linkedin"
-    #url = "https://github.com/fico-ita/fico-ita.github.io"
-    #pre = "<i class='fa-brands fa-linkedin-in'></i>"
-    #weight = 6
+    identifier = "flag"
+    name = " "
+    url = "/en"
+    weight = 6
 
   # Footer Menu
   [[menu.footer]]

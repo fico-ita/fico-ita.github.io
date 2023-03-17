@@ -1,14 +1,14 @@
 [
   {
-    "title": "Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos do ITA",
-    "image": "img/slide/slide01.jpg"
+    "title": "slide01_desc_id",
+    "image": "/img/slide/slide01.jpg"
   },
   {
-    "title": "Empregando Ciência em Finanças e Investimentos",
-    "image": "img/slide/slide02.jpg"
+    "title": "slide02_desc_id",
+    "image": "/img/slide/slide02.jpg"
   },
   {
-    "title": "Colaborando com Pesquisas em Finanças da Aviação",
-    "image": "img/slide/Reitoria2.jpg"
+    "title": "slide03_desc_id",
+    "image": "/img/slide/Reitoria2.jpg"
   }
 ]
