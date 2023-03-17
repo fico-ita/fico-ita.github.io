@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="{{ .Lang }}">
 
 <head>
     {{- partial "head.html" . -}}
-    <meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
-    <meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
-    <meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
-    <meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
-    <meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
-    <meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
-    <meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card }}" />
-    <meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site }}" />
-    <meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator }}" />
+    <meta name="description" content="{{ i18n "meta_og_description" }}" />
+    <meta property="og:title" content="{{ i18n "meta_og_title" }}" />
+    <meta property="og:type" content="{{ i18n "meta_og_type" }}" />
+    <meta property="og:url" content="{{ i18n "meta_og_url" }}" />
+    <meta property="og:image" content="{{ i18n "meta_og_image" }}" />
+    <meta property="og:description" content="{{ i18n "meta_og_description" }}" />
+    <!--<meta name="twitter:card" content="{{ i18n "meta_twitter_card" }}" />
+    <meta name="twitter:site" content="{{ i18n "meta_twitter_site" }}" />
+    <meta name="twitter:creator" content="{{ i18n "meta_twitter_creator" }}" />-->
 </head>
 
 <body>
@@ -23,7 +23,7 @@
     {{- partial "slide.html" . -}}
     {{- partial "strip.html" . -}}
     <div class="mx-auto my-10 max-w-6xl">
-        <h2 class="text-4xl ml-2">Notícias</h2>
+        <h2 class="text-4xl ml-2">{{i18n "noticias"}}</h2>
         {{- partial "recent.html" . -}}
     </div>
     {{- partial "footer.html" . -}}
