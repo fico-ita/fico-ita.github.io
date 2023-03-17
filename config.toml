@@ -93,10 +93,10 @@ enableRobotsTXT = true
     weight = 5
 
   [[menu.main]]
-    #name = "Linkedin"
-    #url = "https://github.com/fico-ita/fico-ita.github.io"
-    #pre = "<i class='fa-brands fa-linkedin-in'></i>"
-    #weight = 6
+    name = " "
+    url = "https://github.com/fico-ita/fico-ita.github.io"
+    pre = "<img src='/img/logo/en.png' style='width:1.5rem' alt='EN'>"
+    weight = 6
 
   # Footer Menu
   [[menu.footer]]
