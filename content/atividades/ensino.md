@@ -19,13 +19,13 @@ A pesquisa deste campo está constantemente avançando, explorando novas técnic
 
 O mercado financeiro e a aviação têm uma relação estreita e cada vez mais importante. A aviação é um setor que movimenta bilhões de dólares em investimentos e negócios, e as finanças são cruciais para a tomada de decisões estratégicas e para o sucesso das empresas aéreas e seus *stakeholders*. Por isso, o desenvolvimento de estratégias financeiras e a pesquisa em finanças da aviação são áreas de grande interesse e importância para investidores, gestores e pesquisadores. No FICO-ITA, orientamos pesquisas em Finanças da Aviação.
 
-### Participação no FICO - ITA
-
-## Orientações de pesquisa
+### Orientações de pesquisa
 
 Orientamos projetos e pesquisas dentro dos programas de pós-graduação no ITA:
 
-- Programa de Pós-graduação em Pesquisa Operacional (PPG-PO)
-- Programa de Pós-graduação em Engenharia Eletrônica e Computação na área Informática (PPG-EEC-I)
+- [Programa de Pós-graduação em Pesquisa Operacional (PPG-PO)](https://www.unifesp.br/campus/sjc/ppgpo)
+- [Programa de Pós-graduação em Engenharia Eletrônica e Computação na área Informática (PPG-EEC-I)](http://www.ita.br/posgrad/pgeec)
+
+### Participação no FICO - ITA
 
 Para fazer parte do FICO-ITA, o candidato deve ser aluno de graduação ou pós-graduação acadêmica no ITA e ter sido aprovado na disciplina PO-245: Aprendizado de Máquina em Finanças Quantitativas. 
