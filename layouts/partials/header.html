@@ -3,9 +3,15 @@
         <ul class="text-center list-none text-white text-3xl">
             {{ range .Site.Menus.main }}
             <li class="p-2">
-                <a href="{{ .URL | safeURL }}">
-                    <span>{{ .Name }} {{ if .Pre }}{{ .Pre }}{{ end }}</span>
+                {{ if eq .Identifier "flag" }}
+                <a href="{{ i18n "flag" | absURL | safeURL }}">
+                    <span style="display: flex; justify-content: center;"><img src='/img/logo/{{i18n "flag"}}.png' style='width:1.5rem' alt='{{i18n "flag"}}'></span>
                 </a>
+                {{ else }}
+                <a href="{{ .URL | absLangURL | safeURL }}">
+                    <span>{{ i18n .Identifier | default .Name }} {{ if .Pre }}{{ .Pre }}{{ end }}</span>
+                </a>
+                {{ end }}
             </li>
             {{ end }}
         </ul>
