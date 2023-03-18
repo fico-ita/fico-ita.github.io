@@ -1,19 +1,19 @@
 [
   {
-    "title": "Finanças Computacionais",
-    "description": "Soluções computacionais em Finanças e Investimentos",
+    "title": "feature01_title_id",
+    "description": "feature01_desc_id",
     "icon": "fa-solid fa-code",
     "link": "/atividades/fincomp/"
   },
   {
-    "title": "Estratégias de Investimentos",
-    "description": "Desenvolvimento de estratégias para investimentos sistemáticos",
+    "title": "feature02_title_id",
+    "description": "feature02_desc_id",
     "icon": "fa-solid fa-chart-line",
     "link": "/atividades/estrategia/"
   },
   {
-    "title": "Ensino e Pesquisa",
-    "description": "Orientação de pesquisa incluindo Finanças da Aviação",
+    "title": "feature03_title_id",
+    "description": "feature03_desc_id",
     "icon": "fa-solid fa-graduation-cap",
     "link": "/atividades/ensino/"
   }
