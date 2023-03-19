@@ -1,24 +1,24 @@
 +++
-title = "Sobre nós"
-description = "Grupo de Pesquisa em Finanças Computacionais e Investimentos Sistemáticos"
+title = "About us"
+description = "Computational Finance and Systematic Investiment Interest Group"
 date = "2023-03-15"
 aliases = ["about-us", "about-fico", "fico"]
 author = "Fico"
 +++
 
-Formado por professores dos programas de pós-graduação do ITA, o FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica. Ensinamos, pesquisamos e desenvolvemos soluções computacionais para a gestão sistemática de investimentos e finanças quantitativas. O público-alvo de nossas pesquisas e soluções é formado por *hedge funds*, *family offices* e fundos de investimento interessados em utilizar a ciência na gestão de investimentos.
+Created by professors from ITA's graduate programs, FICO-ITA is a multidisciplinary interest group in Computational Finance and Systematic Investments operating within the Instituto Tecnológico de Aeronáutica (ITA) in Brazil. We teach, research and develop computational solutions for the systematic management of investments and quantitative finance. The target audience for our research and solutions is composed by *hedge funds*, *family offices* and investment funds interested in using science in investment management.
 
-## Missão, Visão e Valores
+## Mission, vision and values
 
-- **Missão**
-  - Contribuir com a indústria financeira e de investimentos com pesquisas e desenvolvimento de soluções com rigor científico
-- **Visão**
-  - Ser uma referência de excelência para investidores e entidades do mercado financeiro
-- **Valores**
-  - Ética e honestidade ([Disciplina Consciente do ITA](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
-  - Respeito total e irrestrito à ciência
+- **Mission**
+   - Contribute to the financial and investment industry with research and development of academic rigorous solutions.
+- **Vision**
+   - To be a reference of excellence for investors and entities in the financial industry.
+- **Values**
+   - Ethics and honesty ([ITA Conscious Discipline](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
+   - Total and unrestricted respect for science
 
-## Fundadores
+## Founders
 
 <div class="listfounders">
   <div class="card">
@@ -74,6 +74,6 @@ Formado por professores dos programas de pós-graduação do ITA, o FICO-ITA é 
   </div>
 </div>
 
-## O ITA
+## About ITA
 
-Com uma taxa de aprovação inferior a 1% em seu vestibular, o ITA é considerada uma das melhores escolas na área STEM no Brasil. Fundado em 1950, oferece cursos de graduação e pós-graduação nas áreas de Ciências Exatas e Engenharia.
+With an accpetance rate inferior to 1%, ITA is considered one of the best STEM schools in Brazil. Founded in 1950, it offers undergraduate and graduate courses in the STEM related areas and Engineering.
