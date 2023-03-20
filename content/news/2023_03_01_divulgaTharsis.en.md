@@ -1,6 +1,6 @@
 +++
 author = "FICO-ITA"
-title = "Bate-papo carreira Quant com Thársis Souza"
+title = "Meeting career as Quant with Thársis Souza"
 date = "2023-03-01"
 description = "Bate-papo carreira Quant 📈 📊 com Thársis Souza."
 image = "img/noticias/tharsis.jpg"
@@ -19,21 +19,20 @@ aliases = []
 
 +++
 
-Tharsis Souza é um cientista da computação apaixonado por produtos de dados. Ele é vice-presidente sênior de gerenciamento de produtos e engenharia de modelagem na Two Sigma Investments (US$ 60 Bilhões AUM) com o objetivo de aplicar tecnologia de ponta ao mundo de dados financeiros.
+Tharsis Souza is a computer scientist with a passion for data products. He is Senior Vice President of Product Management and Modeling Engineering at Two Sigma Investments ($60 Billion AUM) with the goal of applying cutting-edge technology to the world of financial data.
 
-Antes da Two Sigma, ele passou mais de 10 anos entregando novos produtos de tecnologia em uma variedade de empresas, desde startups do Vale do Silício até Fortune 500 nos EUA, Brasil e Reino Unido. Ele é autor de publicações acadêmicas e palestrante regular em conferências acadêmicas e de negócios. Ele também é mentor de estudantes e profissionais representantes de minorias étnico-raciais.
+Prior to Two Sigma, he spent over 10 years delivering new technology products at a variety of companies, from Silicon Valley startups to Fortune 500 in the US, Brazil and UK. He is an author of academic publications and a regular speaker at academic and business conferences. He is also a mentor to students and professionals representing ethnic-racial minorities.
 
-Tharsis é Ph.D. & M.Phil em Ciência da Computação pela UCL, University of London, M.Sc. em Ciência da Computação pela USP, B.Sc. em Engenharia de Computação pela Unicamp com Especialização pela B3 e treinamento executivo pela Columbia University in the City of New York
+Tharsis is a Ph.D. & M.Phil in Computer Science from UCL, University of London, M.Sc. in Computer Science from USP, B.Sc. in Computer Engineering from Unicamp with Specialization from B3 and executive training from Columbia University in the City of New York
 
+🕘 DATE AND TIME: 09/03 (Thursday) 9am BSB.
 
-🕘 DATA E HORÁRIO: 09/03 (5a feira) 9h BSB.
+LINK: https://lnkd.in/ezJxwZHU
 
-LINK:  https://lnkd.in/ezJxwZHU
+⚠ ⚠ ⚠ ATTENTION: Exclusive to the ITEANA community. You must enter your ga.ita.br, gp.ita.br or gt.ita.br. ⚠ ⚠ ⚠
 
-⚠ ⚠ ⚠ ATENÇÃO: Privado a comunidade ITEANA. Você deve entrar com seu ga.ita.br, gp.ita.br ou gt.ita.br. ⚠ ⚠ ⚠
+ABOUT THE EVENT:
 
-SOBRE O EVENTO:
+The meeting is an event within the module Machine Learning in Quantitative Finance organized by professors Vitor Curtis, Michel Leles and Elton Sbruzzi. This module belongs to the  Postgraduate Program in Operational Research Unifesp-ITA Operacional Unifesp-ITA and Postgraduate Program Electronic and Computer Engineering
 
-O bate-papo é um evento organizado pela disciplina Aprendizado de Máquina em Finanças Quantitativas organizado pelos professores: Vitor Curtis, Michel Leles e Elton Sbruzzi, e pertencente aos Programa de Pós-graduação em Programa de Pós-graduação em Pesquisa Operacional Unifesp-ITA Operacional Unifesp-ITA e ITA | Graduate Studies in Electronic Engineering and Computer Science - Computer Science area
-
-Para o programa da disciplina, visite https://lnkd.in/ebj3biXi
+<!-- Para o programa da disciplina, visite https://lnkd.in/ebj3biXi -->

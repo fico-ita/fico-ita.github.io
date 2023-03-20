@@ -1,6 +1,6 @@
 +++
 author = "FICO-ITA"
-title = "Bate-papo carreira Quant com Thársis Souza"
+title = "Meeting career as Quant with Thársis Souza"
 date = "2023-03-08"
 description = "Bate-papo com Thársis Souza, Senior Vice-Presidente na [Two Sigma](https://www.twosigma.com/) de Nova York."
 image = "img/noticias/visita_tharsis.jpg"
@@ -19,10 +19,10 @@ aliases = []
 
 +++
 
-No dia 08/03/2023, tivemos um bate-papo sobre a carreira internacional de quant com Thársis Souza, Senior Vice-Presidente na [Two Sigma](https://www.twosigma.com/) de Nova York, um fundo de investimentos quantitativos com US$ 60 Bilhões (R$ 312 Bilhões) em ativos sob administração.
+On 08 Mar 2023, we had a meeting about Quant's international career with Thársis Souza, Senior Vice President at [Two Sigma](https://www.twosigma.com/) in New York, an investment fund quantitative with US$ 60 Billion in assets under management.
 
-O bate papo fez parte da primeira aula da disciplina [PO-245: Aprendizado de Máquina em Finanças Quantitativas](https://lnkd.in/ebj3biXi) no [Instituto Tecnológico de Aeronáutica - ITA](http://www.ita.br/).
+The meeting was part of the first class of the subject [PO-245: Machine Learning in Quantitative Finance](https://lnkd.in/ebj3biXi) at [Instituto Tecnológico de Aeronáutica - ITA](http://www.ita .br/).
 
-A disciplina é organizada por professores do FICO - ITA , tem o objetivo de preparar seus alunos para atuarem como Quant na indústria de fundos de investimentos globais.
+The subject is organized by FICO - ITA professors, with the objective of preparing their students to work as Quant in the global investment fund industry.
 
-Muito obrigado ao Thársis e bons estudos para nossos alunos ao longo da disciplina.
+Many thanks to Tharsis and good studies for our students throughout the module.
