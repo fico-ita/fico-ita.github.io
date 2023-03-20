@@ -1,5 +1,5 @@
 ---
-title: "Ensino e Pesquisa no ITA"
+title: "Ensino e Pesquisa"
 date: 2020-06-23T12:33:45+10:00
 draft: false
 featured: true

@@ -1,5 +1,5 @@
 ---
-title: "Estratégias de Investimentos"
+title: "Investimentos Sistemáticos"
 date: 2023-03-14T12:33:45
 draft: false
 featured: true
