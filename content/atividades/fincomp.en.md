@@ -17,4 +17,4 @@ Some examples of research areas in Computational Finance include analyzing finan
 
 One of its main advantages is the ability to analyze large amounts of data, finding complex patterns that are difficult to identify manually, and allowing investors to identify differentiated investment opportunities and manage risks more effectively. Additionally, computing technology can help reduce costs and increase efficiency, allowing investors to maximize their returns and automate much of the operations.
 
-To learn more about how our Computational Finance solutions can help you achieve your goals, contact us.
+To learn more about how our research on Computational Finance, contact us.
