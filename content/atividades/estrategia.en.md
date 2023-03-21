@@ -13,4 +13,4 @@ One of the main advantages of systematic investments is the ability to make cons
 
 However, developing systematic investment strategies can be extremely challenging. This requires a deep understanding of financial theory, as well as advanced computing and mathematics. However, the advantages of systematic investments, such as consistent, data-driven decision making, can be extremely attractive to investors looking to maximize their returns and minimize their risks.
 
-At FICO-ITA, we aim to identify patterns in financial data and create sophisticated algorithms that are able to take advantage of these patterns. To learn more about how our strategies can help you reach your goals, get in touch.
+At FICO-ITA, we research methods to identify patterns in financial data and to use sophisticated algorithms that are able to take advantage of these patterns. To learn more about our research, contact us.
