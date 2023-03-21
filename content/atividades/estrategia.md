@@ -13,4 +13,4 @@ Uma das principais vantagens dos investimentos sistemáticos é a capacidade de 
 
 No entanto, o desenvolvimento de estratégias de investimentos sistemáticos pode ser extremamente desafiador. Isso requer um profundo conhecimento da teoria financeira, bem como de computação e matemática avançada. No entanto, as vantagens de investimentos sistemáticos, como uma tomada de decisão consistente e baseada em dados, podem ser extremamente atraentes para investidores que buscam maximizar seus retornos e minimizar seus riscos.
 
-No FICO-ITA, temos o objetivo de identificar padrões nos dados financeiros e criar algoritmos sofisticados que sejam capazes de aproveitar esses padrões. Para saber mais sobre como nossas estratégias podem ajudar a alcançar seus objetivos entre em contato.
+No FICO-ITA, temos o objetivo de pesquisar a identificação de padrões nos dados financeiros e a utilização de algoritmos sofisticados que sejam capazes de aproveitar esses padrões. Para saber mais sobre como nossas pesquisas entre em contato.
