@@ -17,4 +17,4 @@ Alguns exemplos de áreas de pesquisa em Finanças Computacionais incluem a aná
 
 Uma de suas principais vantagens é a capacidade de analisar grandes quantidades de dados, encontrando padrões complexos difíceis de serem identificados de forma manual, e permitindo que os investidores identifiquem oportunidades de investimento diferenciados e gerenciem riscos de forma mais eficaz. Além disso, a tecnologia de computação pode ajudar a reduzir custos e aumentar a eficiência, permitindo que os investidores maximizem seus retornos e automatizem grande parte operacional.
 
-Para saber mais sobre como nossas soluções em Finanças Computacionais podem te ajudar a alcançar seus objetivos entre em contato.
+Para saber mais sobre como nossas pesquisas em Finanças Computacionais entre em contato.
