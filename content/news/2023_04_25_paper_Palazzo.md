@@ -1,23 +1,18 @@
-+++
+---
 author = "FICO-ITA"
 title = "Bate-papo carreira Quant com Thársis Souza"
 date = "2023-04-25"
 description = "Predicting Litecoin price movement in a pre-defined trading volume window using Random Forest model."
 image = "img/noticias/palazzo_ieee.jpg"
-
 tags = [
     "markdown",
     "css",
     "html",
 ]
-
 categories = []
-
 series = []
-
 aliases = []
-
-+++
+---
 
 Semana passada, Guilherme Palazzo, aluno de mestrado sob orientação dos membros do FICO-ITA, Elton Sbruzzi e Michel Leles, apresentou o artigo Predicting Litecoin price movement in a pre-defined trading volume window using Random Forest model na [IEEE Syscon Conference 2023](https://2023.ieeesyscon.org/) em Vancouver, Canada.
 
@@ -27,7 +22,7 @@ Authors: Guilherme Palazzo [1], Michel Leles [2], Cairo Nascimento Junior [3] an
 
 - [1] Programa de Pós-graduação em Pesquisa Operacional Unifesp-ITA
 - [2] Universidade Federal de São João del-Rei - UFSJ
-- [3] Instituto Tecnológico de Aeronáutica - ITA 
+- [3] Instituto Tecnológico de Aeronáutica - ITA
 
 Keywords: machine learning, financial time series, crypto market, random forest, supervised learning
 

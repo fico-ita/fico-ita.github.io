@@ -1,23 +1,18 @@
-+++
+---
 author = "FICO-ITA"
 title = "Meeting career as Quant with Thársis Souza"
 date = "2023-03-01"
 description = "Bate-papo carreira Quant 📈 📊 com Thársis Souza."
 image = "img/noticias/tharsis.jpg"
-
 tags = [
     "markdown",
     "css",
     "html",
 ]
-
 categories = []
-
 series = []
-
 aliases = []
-
-+++
+---
 
 Tharsis Souza is a computer scientist with a passion for data products. He is Senior Vice President of Product Management and Modeling Engineering at Two Sigma Investments ($60 Billion AUM) with the goal of applying cutting-edge technology to the world of financial data.
 
