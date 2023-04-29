@@ -1,22 +1,22 @@
-+++
-title = "About us"
-description = "Computational Finance and Systematic Investiment Interest Group"
-date = "2023-03-15"
-aliases = ["about-us", "about-fico", "fico"]
-author = "Fico"
-+++
+---
+title: "About us"
+description: "Computational Finance and Systematic Investment Interest Group"
+date: "2023-03-15"
+aliases: ["about-us", "about-fico", "fico"]
+author: "Fico"
+---
 
-Created by professors from ITA's graduate programs, FICO-ITA is a multidisciplinary interest group in Computational Finance and Systematic Investments operating within the Instituto Tecnológico de Aeronáutica (ITA) in Brazil. We teach, research computational methods for the systematic management of investments and quantitative finance. 
+Created by professors from ITA's graduate programs, FICO-ITA is a multidisciplinary interest group in Computational Finance and Systematic Investments operating within the Instituto Tecnológico de Aeronáutica (ITA) in Brazil. We teach, research computational methods for the systematic management of investments and quantitative finance.
 
 ## Mission, vision and values
 
 - **Mission**
-   - Contribute to the financial and investment industry with academic research and teaching.
+  - Contribute to the financial and investment industry with academic research and teaching.
 - **Vision**
-   - To be a reference of excellence for researchers, institutions, investors and entities in the financial industry.
+  - To be a reference of excellence for researchers, institutions, investors and entities in the financial industry.
 - **Values**
-   - Ethics and honesty ([ITA Conscious Discipline](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
-   - Total and unrestricted respect for science
+  - Ethics and honesty ([ITA Conscious Discipline](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
+  - Total and unrestricted respect for science
 
 ## Founders
 
@@ -74,4 +74,4 @@ Created by professors from ITA's graduate programs, FICO-ITA is a multidisciplin
 
 ## About ITA
 
-With an accpetance rate inferior to 1%, ITA is considered one of the best STEM schools in Brazil. Founded in 1950, it offers undergraduate and graduate courses in the STEM related areas and Engineering.
+With an acceptance rate inferior to 1%, ITA is considered one of the best STEM schools in Brazil. Founded in 1950, it offers undergraduate and graduate courses in the STEM related areas and Engineering.

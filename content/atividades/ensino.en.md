@@ -28,4 +28,4 @@ We supervise projects and research within the postgraduate programs at ITA:
 
 ### Becoming a member of FICO - ITA
 
-To be part of FICO-ITA, the candidate must be an academic undergraduate or graduate student at ITA and have studied the modeule PO-245: Machine Learning in Quantitative Finance.
+To be part of FICO-ITA, the candidate must be an academic undergraduate or graduate student at ITA and have studied the module PO-245: Machine Learning in Quantitative Finance.
