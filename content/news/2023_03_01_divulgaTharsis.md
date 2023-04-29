@@ -1,17 +1,17 @@
 ---
-author = "FICO-ITA"
-title = "Bate-papo carreira Quant com Thársis Souza"
-date = "2023-03-01"
-description = "Bate-papo carreira Quant 📈 📊 com Thársis Souza."
-image = "img/noticias/tharsis.jpg"
-tags = [
+author: "FICO-ITA"
+title: "Bate-papo carreira Quant com Thársis Souza"
+date: "2023-03-01"
+description: "Bate-papo carreira Quant 📈 📊 com Thársis Souza."
+image: "img/noticias/tharsis.jpg"
+tags: [
     "markdown",
     "css",
     "html",
 ]
-categories = []
-series = []
-aliases = []
+categories: []
+series: []
+aliases: []
 ---
 
 Tharsis Souza é um cientista da computação apaixonado por produtos de dados. Ele é vice-presidente sênior de gerenciamento de produtos e engenharia de modelagem na Two Sigma Investments (US$ 60 Bilhões AUM) com o objetivo de aplicar tecnologia de ponta ao mundo de dados financeiros.
