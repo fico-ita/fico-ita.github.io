@@ -14,18 +14,8 @@ series: []
 aliases: []
 ---
 
-Drones can play a game-changing role in reducing both cost and time in the context of last-mile deliveries. This paper addresses the last-mile delivery problem from a complex system viewpoint, where the collective performance of the drones is investigated. We consider a last-mile delivery system with a tradable permit model (TPM) for airspace use. Typically, in other research works regarding last-mile delivery drones, a fully cooperative centralized scenario is contemplated. In our approach, due to the TPM, the agents (i.e. drones) need to compete for airspace permits in a distributed manner. We simulate the system and evaluate how different parameters, such as the arrival rate and airspace dimensions, impact the system behavior in terms of the cost and time needed by the drones to acquire flight permits, and the airspace utilization. We use a simplified simulation model, where the agents' strategies are naïve, and the drones' flight dynamics are not accounted for. Nevertheless, the simulation's level of detail is adequate for capturing interesting properties from the agents' collective behavior, as our results support. The obtained results show that the system's performance is satisfactory, even with naïve agents and under high traffic conditions. Moreover, a real-world implementation of our competitive decentralized approach would lead to advantages, such as fast permit transactions, simple computational infrastructures, and error resilience.
+Os drones podem desempenhar um papel revolucionário na redução do custo e do tempo no contexto das entregas de última milha. Este artigo aborda o problema da entrega de última milha do ponto de vista de um sistema complexo, em que o desempenho coletivo dos drones é investigado. Consideramos um sistema de entrega de última milha com um modelo de permissão negociável (TPM) para uso do espaço aéreo. Normalmente, em outros trabalhos de pesquisa sobre drones de entrega de última milha, é contemplado um cenário centralizado totalmente cooperativo. Em nossa abordagem, devido ao TPM, os agentes (ou seja, drones) precisam competir por permissões de espaço aéreo de forma distribuída. Simulamos o sistema e avaliamos como diferentes parâmetros, como a taxa de chegada e as dimensões do espaço aéreo, afetam o comportamento do sistema em termos de custo e tempo necessários para os drones adquirirem licenças de voo e a utilização do espaço aéreo. Usamos um modelo de simulação simplificado, em que as estratégias dos agentes são ingênuas e a dinâmica de voo dos drones não é levada em conta. No entanto, o nível de detalhe da simulação é adequado para capturar propriedades interessantes do comportamento coletivo dos agentes, como comprovam nossos resultados. Os resultados obtidos mostram que o desempenho do sistema é satisfatório, mesmo com agentes ingênuos e em condições de tráfego intenso. Além disso, uma implementação no mundo real de nossa abordagem descentralizada competitiva traria vantagens, como transações de permissão rápidas, infraestruturas computacionais simples e resistência a erros.
 
-* Authros:
+*Autores*: Filipe Alves Neto Verri, Cesar A. C. Marcondes, Denis S. Loubach, Elton F. Sbruzzi, Johnny Cardoso Marques, Lourenço Alves, Marcos Máximo, Vitor V. Curtis
 
-- Filipe Alves Neto Verri
-- Cesar A. C. Marcondes
-- Denis S. Loubach
-- Elton F. Sbruzzi
-- Johnny Cardoso Marques
-- Lourenço Alves
-- Marcos Máximo
-- Vitor Curtis
-
-
-Publication: https://ieeexplore.ieee.org/document/9222133
+*Publicação*: https://ieeexplore.ieee.org/document/9222133

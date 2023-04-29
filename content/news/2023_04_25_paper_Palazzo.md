@@ -18,12 +18,12 @@ Semana passada, Guilherme Palazzo, aluno de mestrado sob orientação dos membro
 
 Abstract: Over the past years, there has been a growing interest in cryptocurrency markets. In this context, price forecasting initiatives that aid in the decision-making process of investors and market participants have emerged and drawn the interest of academia and the financial technology industry. In this paper, we present a machine learning classification model that forecasts the price direction - top, modeled as 1, or neutral or bottom, modeled as 0 - of Litecoin (LTC) over the forecast horizon equivalent to volume-wise samples of 100 thousand LTC. For modeling, we adopt a random forest classifier, achieving an Area Under the Receiver Operating Characteristic curve (AUROC or AUC) score of 0.65 on the hold-out, out-of-time test subset.
 
-Authors: Guilherme Palazzo [1], Michel Leles [2], Cairo Nascimento Junior [3] and Elton Sbruzzi [3]
+*Autores*: Guilherme Palazzo[^1], Michel Leles[^2], Cairo Nascimento Junior[^3] e Elton Sbruzzi[^3]
 
-- [1] Programa de Pós-graduação em Pesquisa Operacional Unifesp-ITA
-- [2] Universidade Federal de São João del-Rei - UFSJ
-- [3] Instituto Tecnológico de Aeronáutica - ITA
+[^1]: Programa de Pós-graduação em Pesquisa Operacional Unifesp-ITA
+[^2]: Universidade Federal de São João del-Rei - UFSJ
+[^3]: Instituto Tecnológico de Aeronáutica - ITA
 
-Keywords: machine learning, financial time series, crypto market, random forest, supervised learning
+*Keywords*: machine learning, financial time series, crypto market, random forest, supervised learning
 
-Further, visit https://2023.ieeesyscon.org/
+Para mais, visite https://2023.ieeesyscon.org/

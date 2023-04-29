@@ -28,4 +28,4 @@ Orientamos projetos e pesquisas dentro dos programas de pós-graduação no ITA:
 
 ### Participação no FICO - ITA
 
-Para fazer parte do FICO-ITA, o candidato deve ser aluno de graduação ou pós-graduação acadêmica no ITA e ter sido aprovado na disciplina PO-245: Aprendizado de Máquina em Finanças Quantitativas. 
+Para fazer parte do FICO-ITA, o candidato deve ser aluno de graduação ou pós-graduação acadêmica no ITA e ter sido aprovado na disciplina PO-245: Aprendizado de Máquina em Finanças Quantitativas.

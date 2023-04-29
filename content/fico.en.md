@@ -11,12 +11,12 @@ Created by professors from ITA's graduate programs, FICO-ITA is a multidisciplin
 ## Mission, vision and values
 
 - **Mission**
-   - Contribute to the financial and investment industry with academic research and teaching.
+  - Contribute to the financial and investment industry with academic research and teaching.
 - **Vision**
-   - To be a reference of excellence for researchers, institutions, investors and entities in the financial industry.
+  - To be a reference of excellence for researchers, institutions, investors and entities in the financial industry.
 - **Values**
-   - Ethics and honesty ([ITA Conscious Discipline](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
-   - Total and unrestricted respect for science
+  - Ethics and honesty ([ITA Conscious Discipline](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
+  - Total and unrestricted respect for science
 
 ## Founders
 

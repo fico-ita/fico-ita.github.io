@@ -14,16 +14,15 @@ series: []
 aliases: []
 ---
 
-Tharsis Souza é um cientista da computação apaixonado por produtos de dados. Ele é vice-presidente sênior de gerenciamento de produtos e engenharia de modelagem na Two Sigma Investments (US$ 60 Bilhões AUM) com o objetivo de aplicar tecnologia de ponta ao mundo de dados financeiros.
+Thársis Souza é um cientista da computação apaixonado por produtos de dados. Ele é vice-presidente sênior de gerenciamento de produtos e engenharia de modelagem na Two Sigma Investments (US$ 60 Bilhões AUM) com o objetivo de aplicar tecnologia de ponta ao mundo de dados financeiros.
 
 Antes da Two Sigma, ele passou mais de 10 anos entregando novos produtos de tecnologia em uma variedade de empresas, desde startups do Vale do Silício até Fortune 500 nos EUA, Brasil e Reino Unido. Ele é autor de publicações acadêmicas e palestrante regular em conferências acadêmicas e de negócios. Ele também é mentor de estudantes e profissionais representantes de minorias étnico-raciais.
 
-Tharsis é Ph.D. & M.Phil em Ciência da Computação pela UCL, University of London, M.Sc. em Ciência da Computação pela USP, B.Sc. em Engenharia de Computação pela Unicamp com Especialização pela B3 e treinamento executivo pela Columbia University in the City of New York
-
+Thársis é Ph.D. & M.Phil em Ciência da Computação pela UCL, University of London, M.Sc. em Ciência da Computação pela USP, B.Sc. em Engenharia de Computação pela Unicamp com Especialização pela B3 e treinamento executivo pela Columbia University in the City of New York
 
 🕘 DATA E HORÁRIO: 09/03 (5a feira) 9h BSB.
 
-LINK:  https://lnkd.in/ezJxwZHU
+LINK: https://lnkd.in/ezJxwZHU
 
 ⚠ ⚠ ⚠ ATENÇÃO: Privado a comunidade ITEANA. Você deve entrar com seu ga.ita.br, gp.ita.br ou gt.ita.br. ⚠ ⚠ ⚠
 
