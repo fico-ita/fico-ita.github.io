@@ -1,6 +1,6 @@
 # FICO Website
 
-O site funciona com Hugo Server, utilizando o template [Tella](https://github.com/opera7133/tella) como submódulo no projeto em `themes\tella`
+O site funciona com Hugo Server, utilizando o template [Tella](https://github.com/opera7133/tella) como submódulo no projeto em `themes\tella`.
 
 ## Instalar
 
