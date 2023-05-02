@@ -1,17 +1,17 @@
-+++
-title = "Sobre nós"
-description = "Grupo de Pesquisa em Finanças Computacionais e Investimentos Sistemáticos"
-date = "2023-03-15"
-aliases = ["about-us", "about-fico", "fico"]
-author = "Fico"
-+++
+---
+title: "Sobre nós"
+description: "Grupo de Pesquisa em Finanças Computacionais e Investimentos Sistemáticos"
+date: "2023-03-15"
+aliases: ["about-us", "about-fico", "fico"]
+author: "Fico"
+---
 
 Formado por professores dos programas de pós-graduação do ITA, o FICO-ITA é um Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do Instituto Tecnológico de Aeronáutica. Ensinamos e pesquisamos métodos computacionais em investimentos e finanças quantitativas.
 
 ## Missão, Visão e Valores
 
 - **Missão**
-  - Contribuir com a indústria financeira e de investimentos com educação, treinamneto e pesquisas científicas
+  - Contribuir com a indústria financeira e de investimentos com educação, treinamento e pesquisas científicas
 - **Visão**
   - Ser uma referência de excelência acadêmica para pesquisadores, instituições de ensino e pesquisa, investidores e entidades do mercado financeiro
 - **Valores**
