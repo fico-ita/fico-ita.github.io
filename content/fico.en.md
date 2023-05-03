@@ -6,14 +6,14 @@ aliases: ["about-us", "about-fico", "fico"]
 author: "Fico"
 ---
 
-Created by professors from ITA's graduate programs, FICO-ITA is a multidisciplinary interest group in Computational Finance and Systematic Investments operating within the Instituto Tecnológico de Aeronáutica (ITA) in Brazil. We teach, research computational methods for the systematic management of investments and quantitative finance.
+Created in 2023 by professors from graduate programs at the Instituto Tecnológico de Aeronáutica (ITA), FICO-ITA is a multidisciplinary interest group in Computational Finance and Systematic Investments operating within the ITA, in Brazil. We teach and research computational methods for the management of systematic and quantitative investments.
 
 ## Mission, vision and values
 
 - **Mission**
   - Contribute to the financial and investment industry with academic research and teaching.
 - **Vision**
-  - To be a reference of excellence for researchers, institutions, investors and entities in the financial industry.
+  - To be a reference of excellence for researchers, institutions, investors, and entities in the financial industry.
 - **Values**
   - Ethics and honesty ([ITA Conscious Discipline](http://www.aeitaonline.com.br/wiki/index.php?title=DC))
   - Total and unrestricted respect for science
