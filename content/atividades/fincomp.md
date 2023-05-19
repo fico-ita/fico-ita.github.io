@@ -4,7 +4,7 @@ date: 2020-06-23T12:33:45+10:00
 draft: false
 featured: true
 weight: 1
-description: Computational Solutions in Finance and Investments
+description: Soluções computacionais em Finanças e Investimentos
 ---
 
 Finanças Computacionais é uma área abrangente e em constante evolução, que combina a teoria financeira e computação avançada para analisar e entender melhor os mercados financeiros e os instrumentos de investimentos.

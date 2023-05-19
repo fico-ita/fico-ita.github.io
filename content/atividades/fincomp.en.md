@@ -1,10 +1,10 @@
 ---
-title: "Finanças Computacionais"
+title: "Computational Finance"
 date: 2020-06-23T12:33:45+10:00
 draft: false
 featured: true
 weight: 1
-description: Soluções computacionais em Finanças e Investimentos
+description: Computational Solutions in Finance and Investments
 ---
 
 Computational Finance is a comprehensive field that combines financial theory and advanced computing to better analyze and understand financial markets and investment instruments.
