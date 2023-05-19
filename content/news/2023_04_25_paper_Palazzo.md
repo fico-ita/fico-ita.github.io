@@ -1,8 +1,8 @@
 ---
 author: "FICO-ITA"
-title: "Predicting Litecoin price movement in a pre-defined trading volume window using Random Forest model."
+title: "Predicting Litecoin price movement in a pre-defined trading volume window using Random Forest model"
 date: "2023-04-25"
-description: "Predicting Litecoin price movement in a pre-defined trading volume window using Random Forest model."
+description: "Predicting Litecoin price movement in a pre-defined trading volume window using Random Forest model"
 image: "img/noticias/palazzo_ieee.jpg"
 tags: [
     "markdown",
