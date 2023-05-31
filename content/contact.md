@@ -2,7 +2,7 @@
 title: 'Contato'
 ---
 
-- Email: info@fico-ita.com
+- Email: fico.research@gmail.com
 - Tel: 012 3947 5896
 - Linkedin: https://www.linkedin.com/company/fico-ita
 

@@ -2,7 +2,7 @@
 title: 'Contact us'
 ---
 
-- Email: fico@ita.br
+- Email: fico.research@gmail.com
 - Tel: +55 12 3947 5896
 - Linkedin: https://www.linkedin.com/company/fico-ita
 
