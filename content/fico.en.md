@@ -6,7 +6,7 @@ aliases: ["about-us", "about-fico", "fico"]
 author: "Fico"
 ---
 
-Created in 2023 by professors od the Division of Computer Science at the Instituto Tecnológico de Aeronáutica (ITA), FICO-ITA is a multidisciplinary interest group in Computational Finance operating within the ITA. We teach, research and provide outsourcing services focused on computational methods for the management of systematic and quantitative investments.
+Created in 2023 by professors od the Division of Computer Science at the Instituto Tecnológico de Aeronáutica (ITA), FICO is a multidisciplinary interest group in Computational Finance operating within the ITA. We teach, research and provide outsourcing services focused on computational methods for the management of systematic and quantitative investments.
 
 ## Mission, vision and values
 
@@ -69,7 +69,7 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <img src="/img/team/renan_lima.png" alt="Renan Lima"><h3>Renan Lima</h3>
     </div>
     <div class="person-diploma">
-      <p>MSc. Student in Computational Finance</p>
+      <p>PhD Student</p>
       <p>ITA</p>
     </div>
     <div class="person-links">
