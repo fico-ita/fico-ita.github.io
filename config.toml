@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
     [languages.en.params]
       [languages.en.params.site]
-        name = "FICO-ITA | Computational Finance and Systematic Investment Interest Group"
+        name = "FICO-ITA | Computational Finance Interest Group"
 
 [params]
 
@@ -45,7 +45,7 @@ enableRobotsTXT = true
     size = "h-14"
 
   [params.site]
-    name = "FICO-ITA | Grupo de Interesse em Finanças Computacionais e Investimentos Sistemáticos"
+    name = "FICO-ITA | Grupo de Interesse em Finanças Computacionais"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
