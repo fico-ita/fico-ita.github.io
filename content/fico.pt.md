@@ -6,7 +6,7 @@ aliases: ["about-us", "about-fico", "fico"]
 author: "Fico"
 ---
 
-Criado em 2023 por professores dos programas de pós-graduação do Instituto Tecnológico de Aeronáutica (ITA), o FICO-ITA é um grupo de interesse em Finanças Computacionais e Investimentos Sistemáticos multidisciplinar atuando dentro do ITA. Ensinamos e pesquisamos métodos computacionais para a gestão de investimentos sistemáticos e quantitativos.
+Criado em 2023 por professores dos programas de pós-graduação do Instituto Tecnológico de Aeronáutica (ITA), o FICO-ITA é um grupo de interesse em Finanças Computacionais multidisciplinar atuando dentro do ITA. Ensinamos, pesquisamos e desenvolvimentos de métodos computacionais para a gestão de investimentos sistemáticos e quantitativos. 
 
 ## Missão, Visão e Valores
 
@@ -69,7 +69,7 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <img src="/img/team/renan_lima.png" alt="Renan Lima"><h3>Renan Lima</h3>
     </div>
     <div class="person-diploma">
-      <p>MSc. Student em Finanças Computacionais</p>
+      <p>Aluno de Doutroado</p>
       <p>ITA</p>
     </div>
     <div class="person-links">
