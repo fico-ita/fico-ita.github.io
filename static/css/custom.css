@@ -1,4 +1,4 @@
-/* 
+/*
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
@@ -46,7 +46,7 @@ img#thumb {
     font-size: 5rem;
   }
 
-  .listfounders {
+  .listfounders, .listresearches {
     display: flex;
   }
 }
@@ -81,6 +81,11 @@ img#thumb {
 
   flex-basis: 0;
   flex-grow: 1;
+}
+
+.listfounders {
+
+  justify-content: center;
 }
 
 .card:hover {

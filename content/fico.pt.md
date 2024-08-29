@@ -46,8 +46,11 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <a href="https://www.linkedin.com/in/vitor-curtis/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
-  
-<!--
+</div>
+
+## Pesquisadores associados
+
+<div class="listresearches">
   <div class="card">
     <div class="person-img">
       <img src="/img/team/michel.png" alt="Michel"><h3>Michel Leles</h3>
@@ -63,22 +66,17 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
 
   <div class="card">
     <div class="person-img">
-      <img src="/img/team/filipe.png" alt="Filpe"><h3>Filipe Verri</h3>
+      <img src="/img/team/renan_lima.png" alt="Renan Lima"><h3>Renan Lima</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. Ciências de Computação</p>
-      <p>ICMC/USP</p>
+      <p>MSc. Student em Finanças Computacionais</p>
+      <p>ITA</p>
     </div>
     <div class="person-links">
-      <a href="https://www.linkedin.com/in/filipe-verri-01bba6181/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/renandcl/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
 </div>
--->
-
-# Pesquisadores associados
-- <a href="https://www.linkedin.com/in/michel-leles/" target="_blank">Michel Leles</a>
-- <a href="https://www.linkedin.com/in/renandcl/" target="_blank">Renan Lima</a>
 
 ## O ITA
 
