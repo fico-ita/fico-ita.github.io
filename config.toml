@@ -21,7 +21,7 @@ enableRobotsTXT = true
   [languages.pt]
     languageName = "Português"
     weight = 1
-    
+
   [languages.en]
     languageName = "English"
     weight = 2
@@ -37,7 +37,7 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "/img/logo/ita-logo.png"
+    main = "img/logo/ita-logo.png"
     alt = "FICO-ITA"
 
     # The size parameter is the class name of tailwindcss
@@ -117,4 +117,4 @@ enableRobotsTXT = true
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true 
+      unsafe = true
