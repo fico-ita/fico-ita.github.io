@@ -28,6 +28,8 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
     <div class="person-diploma">
       <p>Ph.D. in Computational Finance</p>
       <p>University of Essex</p>
+      <p>Professor at the Computer Science Division</p>
+      <p>ITA</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/eltonsbruzzi/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -40,6 +42,8 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
     </div>
     <div class="person-diploma">
       <p>Ph.D. in Electronic and Computational Engineering</p>
+      <p>ITA</p>
+      <p>Professor at the Computer Science Division</p>
       <p>ITA</p>
     </div>
     <div class="person-links">
@@ -58,6 +62,8 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
     <div class="person-diploma">
       <p>Post-doc in Computational Finance</p>
       <p>ITA</p>
+      <p>Professor at the Department of Technology</p>
+      <p>UFSJ</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/michel-leles/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -66,14 +72,60 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
 
   <div class="card">
     <div class="person-img">
-      <img src="/img/team/renan_lima.png" alt="Renan Lima"><h3>Renan Lima</h3>
+      <!--<img src="/img/team/paulo_andre.png" alt="Paulo André">-->
+      <h3>Paulo André</h3>
     </div>
     <div class="person-diploma">
-      <p>MSc. Student in Computational Finance</p>
+      <p>Ph.D. in Electrical Engineering</p>
+      <p>USP</p>
+      <p>Professor at the Computer Science Division</p>
       <p>ITA</p>
     </div>
     <div class="person-links">
+      <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+  </div>
+</div>
+
+## Stdents
+
+<div class="listresearches">
+  <div class="card">
+    <div class="person-img">
+      <h3>Renan Lima</h3>
+    </div>
+    <div class="person-diploma">
+      <p>MSc. Student in Computational Finance</p>
+      <p>PPG-PO - ITA</p>
+    </div>
+    <div class="person-links">
       <a href="https://www.linkedin.com/in/renandcl/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="person-img">
+      <h3>Afonso Feitoza</h3>
+    </div>
+    <div class="person-diploma">
+      <p>Ph.D. Student in Computational Finance</p>
+      <p>PPG-EEC-I - ITA</p>
+    </div>
+    <div class="person-links">
+      <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="person-img">
+      <h3>Thiago Carvalho</h3>
+    </div>
+    <div class="person-diploma">
+      <p>MSc. Student in Computational Finance</p>
+      <p>PPG-EEC-I - ITA</p>
+    </div>
+    <div class="person-links">
+      <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
 </div>
