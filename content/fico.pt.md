@@ -119,14 +119,14 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
 
   <div class="card">
     <div class="person-img">
-      <h3>Thiago Carvalho</h3>
+      <h3>Thiago Silva</h3>
     </div>
     <div class="person-diploma">
       <p>MSc. Student em Finanças Computacionais</p>
       <p>PPG-EEC-I - ITA</p>
     </div>
     <div class="person-links">
-      <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/thiago-cns/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
 </div>
