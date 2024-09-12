@@ -26,10 +26,10 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <img src="/img/team/elton.png" alt="Elton"><h3>Elton Sbruzzi</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. em Finanças Computacionais</p>
-      <p>University of Essex</p>
-      <p>Professor da Divisão de Ciência da Computação</p>
-      <p>ITA</p>
+      <p>Ph.D. em Finanças Computacionais</br>
+      University of Essex</p>
+      <p>Professor da Divisão de Ciência da Computação</br>
+      ITA</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/eltonsbruzzi/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -41,10 +41,10 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <img src="/img/team/vitor.png" alt="Vitor"><h3>Vitor Curtis</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. em Engenharia Eletrônica e Computacional</p>
-      <p>ITA</p>
-      <p>Professor da Divisão de Ciência da Computação</p>
-      <p>ITA</p>
+      <p>Ph.D. em Engenharia Eletrônica e Computacional</br>
+      ITA</p>
+      <p>Professor da Divisão de Ciência da Computação</br>
+      ITA</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/vitor-curtis/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -60,10 +60,10 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <img src="/img/team/michel.png" alt="Michel"><h3>Michel Leles</h3>
     </div>
     <div class="person-diploma">
-      <p>Post-doc em Finanças Computacionais</p>
-      <p>ITA</p>
-      <p>Professor do Departamento de Tecnologia</p>
-      <p>UFSJ</p>
+      <p>Post-doc em Finanças Computacionais</br>
+      ITA</p>
+      <p>Professor do Departamento de Tecnologia</br>
+      UFSJ</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/michel-leles/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -76,10 +76,10 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <h3>Paulo André</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. em Engenharia Elétrica</p>
-      <p>USP</p>
-      <p>Professor da Divisão de Ciência da Computação</p>
-      <p>ITA</p>
+      <p>Ph.D. em Engenharia Elétrica</br>
+      USP</p>
+      <p>Professor da Divisão de Ciência da Computação</br>
+      ITA</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -96,8 +96,7 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <h3>Renan Lima</h3>
     </div>
     <div class="person-diploma">
-      <p>MSc. Student em Finanças Computacionais</p>
-      <p>PPG-PO - ITA</p>
+      <p>MSc. Student</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/renandcl/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -109,8 +108,7 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <h3>Afonso Feitoza</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. Student em Finanças Computacionais</p>
-      <p>PPG-EEC-I - ITA</p>
+      <p>Ph.D. Student</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -122,8 +120,7 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <h3>Thiago Silva</h3>
     </div>
     <div class="person-diploma">
-      <p>MSc. Student em Finanças Computacionais</p>
-      <p>PPG-EEC-I - ITA</p>
+      <p>MSc. Student</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/thiago-cns/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>

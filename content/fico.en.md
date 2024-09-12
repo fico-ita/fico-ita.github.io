@@ -26,10 +26,10 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <img src="/img/team/elton.png" alt="Elton"><h3>Elton Sbruzzi</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. in Computational Finance</p>
-      <p>University of Essex</p>
-      <p>Professor at the Computer Science Division</p>
-      <p>ITA</p>
+      <p>Ph.D. in Computational Finance</br>
+      University of Essex</p>
+      <p>Professor at the Computer Science Division</br>
+      ITA</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/eltonsbruzzi/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -41,10 +41,10 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <img src="/img/team/vitor.png" alt="Vitor"><h3>Vitor Curtis</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. in Electronic and Computational Engineering</p>
-      <p>ITA</p>
-      <p>Professor at the Computer Science Division</p>
-      <p>ITA</p>
+      <p>Ph.D. in Electronic and Computational Engineering</br>
+      ITA</p>
+      <p>Professor at the Computer Science Division</br>
+      ITA</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/vitor-curtis/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -60,10 +60,10 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <img src="/img/team/michel.png" alt="Michel"><h3>Michel Leles</h3>
     </div>
     <div class="person-diploma">
-      <p>Post-doc in Computational Finance</p>
-      <p>ITA</p>
-      <p>Professor at the Department of Technology</p>
-      <p>UFSJ</p>
+      <p>Post-doc in Computational Finance</br>
+      ITA</p>
+      <p>Professor at the Department of Technology</br>
+      UFSJ</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/michel-leles/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -76,10 +76,10 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <h3>Paulo André</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. in Electrical Engineering</p>
-      <p>USP</p>
-      <p>Professor at the Computer Science Division</p>
-      <p>ITA</p>
+      <p>Ph.D. in Electrical Engineering</br>
+      USP</p>
+      <p>Professor at the Computer Science Division</br>
+      ITA</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -95,8 +95,7 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <h3>Renan Lima</h3>
     </div>
     <div class="person-diploma">
-      <p>MSc. Student in Computational Finance</p>
-      <p>PPG-PO - ITA</p>
+      <p>MSc. Student</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/renandcl/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -108,8 +107,7 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <h3>Afonso Feitoza</h3>
     </div>
     <div class="person-diploma">
-      <p>Ph.D. Student in Computational Finance</p>
-      <p>PPG-EEC-I - ITA</p>
+      <p>Ph.D. Student</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/#" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
@@ -121,8 +119,7 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <h3>Thiago Silva</h3>
     </div>
     <div class="person-diploma">
-      <p>MSc. Student in Computational Finance</p>
-      <p>PPG-EEC-I - ITA</p>
+      <p>MSc. Student</p>
     </div>
     <div class="person-links">
       <a href="https://www.linkedin.com/in/thiago-cns/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
