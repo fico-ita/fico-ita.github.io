@@ -50,11 +50,7 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <a href="https://www.linkedin.com/in/vitor-curtis/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
-</div>
 
-## Associate Researcher
-
-<div class="listresearches">
   <div class="card">
     <div class="person-img">
       <img src="/img/team/michel.png" alt="Michel"><h3>Michel Leles</h3>
@@ -69,6 +65,11 @@ Created in 2023 by professors od the Division of Computer Science at the Institu
       <a href="https://www.linkedin.com/in/michel-leles/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
+</div>
+
+## Associate Researcher
+
+<div class="listresearches">
 
   <div class="card">
     <div class="person-img">

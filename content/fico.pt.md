@@ -50,11 +50,7 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <a href="https://www.linkedin.com/in/vitor-curtis/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
-</div>
 
-## Pesquisadores associados
-
-<div class="listresearches">
   <div class="card">
     <div class="person-img">
       <img src="/img/team/michel.png" alt="Michel"><h3>Michel Leles</h3>
@@ -69,6 +65,11 @@ Criado em 2023 por professores dos programas de pós-graduação do Instituto Te
       <a href="https://www.linkedin.com/in/michel-leles/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
     </div>
   </div>
+</div>
+
+## Pesquisadores associados
+
+<div class="listresearches">
 
   <div class="card">
     <div class="person-img">
